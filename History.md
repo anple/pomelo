@@ -54,7 +54,7 @@
 
 1.1.8 / 2015-05-29
 =================
-  * fix bug on verison calculating when update proto files
+  * fix bug on version calculating when update proto files
   * avoid modules loading error on windows
   * [NEW] upgrade pomelo-protocol to 0.1.6
 
